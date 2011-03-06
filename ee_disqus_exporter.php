@@ -1,7 +1,7 @@
 <?php
 // Last update: v.01 Mar 5, 2011
 // Export ExpressionEngine Comments to Disqus using PHP, EE1/EE2 and pre-3.0 Disqus API
-// Copyright 2011 Jason Hamilton-Mascioli CUSTOM-MOD SOLUTIONS INC (custom-mod.com), released to public domain
+// Copyright 2011 Jason Hamilton-Mascioli KickStartLabs:0 (http://www.kickstartlabs.com), released to public domain
 
 /** INSTALLATION AND SETUP
 ------------------
